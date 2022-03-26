@@ -6,6 +6,5 @@ Neumorphism implements a minimalist approach while giving a sense of 3-dimension
 
 
 <h3>Output</h3>
+![neo2](https://user-images.githubusercontent.com/55271909/160224645-4f8cc5e7-e518-4301-9fd2-95830590c679.png)
 
-
-![neo2](https://user-images.githubusercontent.com/55271909/160224551-f427ba36-fd9a-4dee-9a89-1aeb06d3153e.png)
